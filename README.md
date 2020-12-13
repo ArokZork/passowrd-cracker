@@ -1,6 +1,6 @@
-# passowrd-cracker
+# password-cracker
 This is a python program.That can find what you type.
- #Note::
+ Note::
  That can run only with python3.
  
  #Usage:
